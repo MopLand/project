@@ -1,7 +1,14 @@
-var _hmt = _hmt || [];
-(function() {
-	var hm = document.createElement("script");
-	hm.src = "https://hm.baidu.com/hm.js?f1b98dc11fa277428abfe5341b8ce61b";
-	var s = document.getElementsByTagName("script")[0]; 
-	s.parentNode.insertBefore(hm, s);
-})();
+
+R.assets( ['//public.zhfile.com/js/pack.hybrid.js', '//public.zhfile.com/js/pack.hybrid.css'], function(){
+
+	var config = {
+		debug : false,
+		build : '20181012',
+		baidu : 'f1b98dc11fa277428abfe5341b8ce61b',
+		public : '//public.zhfile.com/',
+		option : ( typeof option != 'undefined' ? option : {} ),
+		extend : ( typeof extend != 'undefined' ? extend : {} )
+	};
+	Hybrid.Start( config );
+
+} );
