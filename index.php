@@ -50,6 +50,14 @@
 					<p class="card-text">JS / CSS 实体符号转换工具</p>
 				</div>
 			</div>
+
+			<div class="card">
+				<a href="/mixcolor"><img class="card-img-top" src="/project/bubble.png"></a>
+				<div class="card-body">
+					<h5 class="card-title"><a href="/mixcolor">Mix Color</a></h5>
+					<p class="card-text">App / Web 颜色设计配色工具</p>
+				</div>
+			</div>
 		</div>
 
 		<hr />
