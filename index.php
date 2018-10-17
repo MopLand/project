@@ -6,6 +6,7 @@
 	<meta name="renderer" content="webkit">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<link rel="stylesheet" href="//cdn.staticfile.org/twitter-bootstrap/4.1.1/css/bootstrap.min.css">
+	<script src="//public.zhfile.com/js/ray.js"></script>
 </head>
 
 <body>
@@ -18,46 +19,72 @@
 
 		<blockquote class="blockquote">实用工具</blockquote>
 
-		<div class="card-deck">
-			<div class="card">
-				<a href="/urlshort"><img class="card-img-top" src="/project/bubble.png"></a>
-				<div class="card-body">
-					<h5 class="card-title"><a href="/urlshort">URL Short</a></h5>
-					<p class="card-text">基于微博的短网址生成</p>
+		<div class="row">
+
+			<div class="col">
+				<div class="card">
+					<a href="/urlshort"><img class="card-img-top" src="/project/bubble.png"></a>
+					<div class="card-body">
+						<h6 class="card-title"><a href="/urlshort">URL Short</a></h6>
+						<p class="card-text">基于微博的短网址生成</p>
+					</div>
 				</div>
 			</div>
 
-			<div class="card">
-				<a href="/vnote"><img class="card-img-top" src="/project/bubble.png"></a>
-				<div class="card-body">
-					<h5 class="card-title"><a href="/vnote">VNote Reader</a></h5>
-					<p class="card-text">.vnt 格式文件在线读取器</p>
+			<div class="col">
+				<div class="card">
+					<a href="/vnote"><img class="card-img-top" src="/project/bubble.png"></a>
+					<div class="card-body">
+						<h6 class="card-title"><a href="/vnote">VNote Reader</a></h6>
+						<p class="card-text">.vnt 格式文件在线读取器</p>
+					</div>
 				</div>
 			</div>
 
-			<div class="card">
-				<a href="/time-task"><img class="card-img-top" src="/project/bubble.png"></a>
-				<div class="card-body">
-					<h5 class="card-title"><a href="/time-task">time-task</a></h5>
-					<p class="card-text">基于 Web 的 URL 定时请求</p>
+			<div class="col">
+				<div class="card">
+					<a href="/time-task"><img class="card-img-top" src="/project/bubble.png"></a>
+					<div class="card-body">
+						<h6 class="card-title"><a href="/time-task">time-task</a></h6>
+						<p class="card-text">基于 Web 的 URL 定时请求</p>
+					</div>
 				</div>
 			</div>
 
-			<div class="card">
-				<a href="/entities"><img class="card-img-top" src="/project/bubble.png"></a>
-				<div class="card-body">
-					<h5 class="card-title"><a href="/entities">Entity Conversion Calculator</a></h5>
-					<p class="card-text">JS / CSS 实体符号转换工具</p>
+			<div class="col">
+				<div class="card">
+					<a href="/entities"><img class="card-img-top" src="/project/bubble.png"></a>
+					<div class="card-body">
+						<h6 class="card-title"><a href="/entities">Entity Conversion Calculator</a></h6>
+						<p class="card-text">JS / CSS 实体符号转换工具</p>
+					</div>
 				</div>
 			</div>
 
-			<div class="card">
-				<a href="/mixcolor"><img class="card-img-top" src="/project/bubble.png"></a>
-				<div class="card-body">
-					<h5 class="card-title"><a href="/mixcolor">Mix Color</a></h5>
-					<p class="card-text">App / Web 颜色设计配色工具</p>
+		</div>
+
+		<div class="row my-3">
+
+			<div class="col">
+				<div class="card">
+					<a href="/mixcolor"><img class="card-img-top" src="/project/bubble.png"></a>
+					<div class="card-body">
+						<h6 class="card-title"><a href="/mixcolor">Mix Color</a></h6>
+						<p class="card-text">App / Web 颜色设计配色工具</p>
+					</div>
 				</div>
 			</div>
+
+			<div class="col">
+				<div class="card">
+					<a href="/useragent"><img class="card-img-top" src="/project/bubble.png"></a>
+					<div class="card-body">
+						<h6 class="card-title"><a href="/useragent">User Agent</a></h6>
+						<p class="card-text">IP 和 UserAgent 代理信息</p>
+					</div>
+				</div>
+			</div>
+
 		</div>
 
 		<hr />
@@ -68,7 +95,7 @@
 			<div class="card">
 				<a href="/hybrid"><img class="card-img-top" src="/project/bubble.png"></a>
 				<div class="card-body">
-					<h5 class="card-title">Hybrid.js</h5>
+					<h6 class="card-title">Hybrid.js</h6>
 					<p class="card-text">整合文件上传，表单提交，Ajax 处理，模板引擎</p>
 				</div>
 			</div>
@@ -76,7 +103,7 @@
 			<div class="card">
 				<a href="/magick"><img class="card-img-top" src="/project/bubble.png"></a>
 				<div class="card-body">
-					<h5 class="card-title">Magick.js</h5>
+					<h6 class="card-title">Magick.js</h6>
 					<p class="card-text">图片预处理组件，支持压缩、裁切与异步上传</p>
 				</div>
 			</div>
@@ -84,7 +111,7 @@
 			<div class="card">
 				<a href="/upload"><img class="card-img-top" src="/project/bubble.png"></a>
 				<div class="card-body">
-					<h5 class="card-title">Upload.js</h5>
+					<h6 class="card-title">Upload.js</h6>
 					<p class="card-text">文件上传组件，支持多文件，多视图显示</p>
 				</div>
 			</div>
