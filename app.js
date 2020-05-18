@@ -1,5 +1,5 @@
 
-R.assets( ['//public.zhfile.com/js/pack.hybrid.css', '//public.zhfile.com/js/pack.hybrid.js'], function(){
+R.assets( ['//public.rexcdn.com/js/pack.hybrid.css', '//public.rexcdn.com/js/pack.hybrid.js'], function(){
 
 	var config = {
 		debug : false,
