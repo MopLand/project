@@ -6,7 +6,7 @@
 	<meta name="renderer" content="webkit">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<link rel="stylesheet" href="//cdn.staticfile.org/twitter-bootstrap/4.1.1/css/bootstrap.min.css">
-	<script src="//public.rexcdn.com/js/ray.js"></script>
+	<script src="//public.baohe.rexcdn.com/js/ray.js"></script>
 </head>
 
 <body>
