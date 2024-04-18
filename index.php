@@ -87,6 +87,10 @@
 
 		</div>
 
+		<!-- 网文精选_自适应 -->
+		<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7104481011578148" data-ad-slot="7430051000" data-ad-format="auto" data-full-width-responsive="true"></ins>
+		<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 		<hr />
 
 		<blockquote class="blockquote">开源项目</blockquote>
@@ -135,6 +139,10 @@
 
 			</div>
 		</div>
+		
+		<!-- 网文精选_自适应 -->
+		<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7104481011578148" data-ad-slot="7430051000" data-ad-format="auto" data-full-width-responsive="true"></ins>
+		<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 	</div>
 
