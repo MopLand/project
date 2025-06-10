@@ -5,7 +5,7 @@
 	<title>在线实用小工具</title>
 	<meta name="renderer" content="webkit">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<link rel="stylesheet" href="//cdn.staticfile.org/twitter-bootstrap/4.1.1/css/bootstrap.min.css">
+	<link rel="stylesheet" href="//cdn.staticfile.net/twitter-bootstrap/4.1.1/css/bootstrap.min.css">
 	<script src="//public.baohe.rexcdn.com/js/ray.js"></script>
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
